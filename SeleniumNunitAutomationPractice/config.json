@@ -1,0 +1,13 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ],
+  "test_browser": "Chrome",
+  "test_browser_path": "\\drivers",
+  "test_url": "http://automationpractice.com/index.php"
+}
